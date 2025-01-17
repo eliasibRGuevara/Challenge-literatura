@@ -32,13 +32,13 @@ El proyecto GestorLibros está diseñado para bibliotecas, clubes de lectura y a
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/eliasibRGuevara/challenge-literatura.git
+   git clone https://github.com/eliasibRGuevara/Challenge-literatura.git
    ```
 
 2. Accede al directorio del proyecto:
 
    ```bash
-   cd challenge-literatur
+   cd Challenge-literatura
    ```
 
 3. Ejecuta la aplicación:
